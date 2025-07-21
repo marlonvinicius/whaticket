@@ -7,7 +7,7 @@
 sudo apt -y update && apt -y upgrade
 ```
 ```bash
-sudo apt install -y git && git clone https://github.com/marlonvinicius/whaticket.git install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria</code>
+sudo apt install -y git && git clone https://github.com/marlonvinicius/whaticket.git install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
 ```
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO):
